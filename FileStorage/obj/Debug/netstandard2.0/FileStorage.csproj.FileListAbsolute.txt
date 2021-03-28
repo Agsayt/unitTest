@@ -1,0 +1,9 @@
+C:\Users\111ag\Source\Repos\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+C:\Users\111ag\Source\Repos\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+C:\Users\111ag\Source\Repos\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csprojAssemblyReference.cache
+C:\Users\111ag\Source\Repos\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+C:\Users\111ag\Source\Repos\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+C:\Users\111ag\Source\Repos\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+C:\Users\111ag\Source\Repos\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\111ag\Source\Repos\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+C:\Users\111ag\Source\Repos\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb
